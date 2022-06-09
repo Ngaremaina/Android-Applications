@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "749697679891",
+    "project_id": "lakucha-dishes-77d1a",
+    "storage_bucket": "lakucha-dishes-77d1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749697679891:android:2ba6add955be44359835e6",
+        "android_client_info": {
+          "package_name": "com.example.lakuchadishes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749697679891-c0fd2onmj7hmbl8i89v3pl58tqvg1pcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwtt1jJnYuJwj3YWSjm6NOETKEMvdF5U8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749697679891-c0fd2onmj7hmbl8i89v3pl58tqvg1pcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
