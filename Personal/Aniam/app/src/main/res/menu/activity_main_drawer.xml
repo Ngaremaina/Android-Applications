@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_statistics"
+            android:title="Statistics" />
+        <item
+            android:id="@+id/nav_numbers"
+            android:title="Numbers" />
+        <item
+            android:id="@+id/nav_angles"
+            android:title="Angles" />
+
+        <item
+            android:id="@+id/nav_power"
+            android:title="Power forms"/>
+        <item
+            android:id="@+id/nav_shapes"
+            android:title="Area and Perimeter"/>
+    </group>
+</menu>

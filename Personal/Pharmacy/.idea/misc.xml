@@ -3,7 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Projects/Github/Android/Apps/Android-Applications/Personal/Pharmacy/app/src/main/res/drawable/cardbackground.xml" value="0.1515" />
+        <entry key="..\:/Projects/Github/Android/Apps/Android-Applications/Personal/Pharmacy/app/src/main/res/layout/activity_cart_list.xml" value="0.2" />
+        <entry key="..\:/Projects/Github/Android/Apps/Android-Applications/Personal/Pharmacy/app/src/main/res/layout/activity_details.xml" value="0.33" />
+        <entry key="..\:/Projects/Github/Android/Apps/Android-Applications/Personal/Pharmacy/app/src/main/res/layout/activity_login.xml" value="0.1859375" />
+        <entry key="..\:/Projects/Github/Android/Apps/Android-Applications/Personal/Pharmacy/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/Projects/Github/Android/Apps/Android-Applications/Personal/Pharmacy/app/src/main/res/layout/activity_splash.xml" value="0.1859375" />
+        <entry key="..\:/Projects/Github/Android/Apps/Android-Applications/Personal/Pharmacy/app/src/main/res/layout/cart_layout.xml" value="0.2" />
         <entry key="..\:/Projects/Github/Android/Apps/Android-Applications/Personal/Pharmacy/app/src/main/res/layout/content_main.xml" value="0.2" />
+        <entry key="..\:/Projects/Github/Android/Apps/Android-Applications/Personal/Pharmacy/app/src/main/res/layout/dropdown_menu.xml" value="0.2" />
+        <entry key="..\:/Projects/Github/Android/Apps/Android-Applications/Personal/Pharmacy/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Projects/Github/Android/Apps/Android-Applications/Personal/Pharmacy/app/src/main/res/layout/fragment_menu.xml" value="0.2" />
+        <entry key="..\:/Projects/Github/Android/Apps/Android-Applications/Personal/Pharmacy/app/src/main/res/layout/fragment_products.xml" value="0.2" />
+        <entry key="..\:/Projects/Github/Android/Apps/Android-Applications/Personal/Pharmacy/app/src/main/res/layout/image_layout.xml" value="0.2" />
+        <entry key="..\:/Projects/Github/Android/Apps/Android-Applications/Personal/Pharmacy/app/src/main/res/layout/offer_layout.xml" value="0.14921875" />
+        <entry key="..\:/Projects/Github/Android/Apps/Android-Applications/Personal/Pharmacy/app/src/main/res/layout/product_layout.xml" value="0.33" />
+        <entry key="..\:/Projects/Github/Android/Apps/Android-Applications/Personal/Pharmacy/app/src/main/res/menu/activity_main_drawer.xml" value="0.2" />
       </map>
     </option>
   </component>

@@ -37,6 +37,7 @@ public class DetailsActivity extends AppCompatActivity {
         setContentView(binding.getRoot());
 
         ActionBar actionBar=getSupportActionBar();
+        assert actionBar != null;
         actionBar.setTitle("Product Details");
 
         db=FirebaseFirestore.getInstance();

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "648280631928",
+    "project_id": "wallpiks-a2123",
+    "storage_bucket": "wallpiks-a2123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648280631928:android:70f0d8387e546e4e35db8d",
+        "android_client_info": {
+          "package_name": "com.example.wallpiks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648280631928-is0qcss5apk5eco0dsvf4ehbkkelpsk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARS35LvQEca1oFPDvx3eW6kal8h_mk858"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648280631928-is0qcss5apk5eco0dsvf4ehbkkelpsk4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
